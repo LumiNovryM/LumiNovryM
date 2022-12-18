@@ -7,7 +7,7 @@
 <br>
 
 <h3 align="left">About Me:</h3>
-<p align="center">- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 
