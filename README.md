@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://i.pinimg.com/564x/b6/aa/13/b6aa1308a10c1253df9abf6e678f47d3.jpg))](https://github/LumiNovryM)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif])](https://github.com/LumiNovryM)
 
 <h1 align="center">Hi 👋, I'm Lumi Novry Mekel</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
