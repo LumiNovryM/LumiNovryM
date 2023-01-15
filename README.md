@@ -3,31 +3,14 @@
 <h1 align="center">Hi 👋, I'm Lumi Novry Mekel</h1>
 <h3 align="center">A passionate Web Developer from Indonesia</h3>
 
-<br>
-<br>
-
-<h3 align="left">About Me:</h3>
-
-
-- 🌱 I’m currently learning **Laravel**
-
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
-
-- 📫 How to reach me **luminovrymekel@gmail.com**
-
-- ⚡ Fun fact **I am not a Genius, I am just Curious**
-
-<br>
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="left">
 <a href="https://codepen.io/lumi novry m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lumi novry m" height="30" width="40" /></a>
 <a href="https://dev.to/luminovrym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="luminovrym" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lumi novry m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lumi novry m" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18505471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18505471" height="30" width="40" /></a>
 <a href="https://instagram.com/@lumi_novry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lumi_novry" height="30" width="40" /></a>
-</p>
+</div>
 
 <br>
 <br>
