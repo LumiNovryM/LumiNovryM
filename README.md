@@ -35,10 +35,10 @@
   <a href="https://instagram.com/lumi_novry" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luminovrym/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=LumiNovryM)
+  [![](https://visitcount.itsvg.in/api?id=LumiNovryM&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=LumiNovryM&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
