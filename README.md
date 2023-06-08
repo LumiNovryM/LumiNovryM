@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Lumi Novry Mekel</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
 <br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Developer;Mobile+App+Developer;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 <br>
 <h1 align="center">Connect with me:</h3>
 <div align="center">
