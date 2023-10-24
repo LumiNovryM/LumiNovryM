@@ -5,7 +5,6 @@
 <br>
 <p align="center">
   <img src="readmebox.svg">
-  <a href="https://nextjs.org/conf/ticket/luminovrym?v=36" target="blank">Next.js Conf Ticket</a>
 </p>
 
 <h1 align="center">Connect with me:</h3>
