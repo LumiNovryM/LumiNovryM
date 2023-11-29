@@ -42,7 +42,6 @@
   <a href="https://www.linkedin.com/in/luminovrym/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
   [![](https://visitcount.itsvg.in/api?id=LumiNovryM&icon=0&color=0)](https://visitcount.itsvg.in)
-  <img src="https://komarev.com/ghpvc/?username=LumiNovryM&label=Profile%20views&color=0e75b6&style=flat" alt="Lumi Novry M" />
 </div>
 
 
