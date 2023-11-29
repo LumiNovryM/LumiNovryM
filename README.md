@@ -30,8 +30,8 @@
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LumiNovryM&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumiNovryM&layout=compact&langs_count=10&theme=dark"/> -->
 
-  ![LumiNovryM's Stats](https://github-readme-stats.vercel.app/api?username=LumiNovryM&theme=dark&show_icons=true&hide_border=false&count_private=true)
-  ![LumiNovryM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LumiNovryM&theme=dark&hide_border=false)
+  ![LumiNovryM's Stats](https://github-readme-stats.vercel.app/api?username=LumiNovryM&theme=dark&show_icons=true&hide_border=false&count_private=true) <br>
+  ![LumiNovryM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LumiNovryM&theme=dark&hide_border=false) <br>
   ![LumiNovryM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LumiNovryM&theme=dark&show_icons=true&hide_border=false&layout=compact)
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
