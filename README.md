@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github/LumiNovryM)
+ [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github/LumiNovryM)
 [![An image of @luminovrym's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luminovrym)](https://holopin.io/@luminovrym)
 <h1 align="center">Hi 👋, I'm Lumi Novry Mekel</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
