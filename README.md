@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Lumi Novry Mekel</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
 <br>
+<!-- README BOX -->
 <p align="center">
   <img src="readmebox.svg">
 </p>
