@@ -9,7 +9,7 @@
   <img src="readmebox.svg">
 </p>
 
-<!-- My Connect With Me Badge Status -->
+<!-- My Connect Me -->
 <h1 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://codepen.io/lumi novry m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lumi novry m" height="30" width="40" /></a>
