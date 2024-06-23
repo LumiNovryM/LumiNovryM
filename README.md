@@ -138,9 +138,8 @@
 </div>
 
 ---
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=visit-count-pro&label=Page%20Views&icon=6&color=9)](https://visitcount.itsvg.in)
-</div>
+
 
 
 
