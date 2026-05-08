@@ -126,7 +126,6 @@
 
   ![LumiNovryM's Stats](https://github-readme-stats.vercel.app/api?username=LumiNovryM&theme=dark&show_icons=true&hide_border=false&count_private=true) <br>
   ![LumiNovryM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LumiNovryM&theme=dark&hide_border=false) <br>
-  ![LumiNovryM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LumiNovryM&theme=dark&show_icons=true&hide_border=false&layout=compact)
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
 
@@ -139,11 +138,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=visit-count-pro&label=Page%20Views&icon=6&color=9)](https://visitcount.itsvg.in)
-
-
-
-
-
-
-
-
