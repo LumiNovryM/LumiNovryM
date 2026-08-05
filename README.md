@@ -3,6 +3,7 @@
 [![An image of @luminovrym's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/luminovrym)](https://holopin.io/@luminovrym)
 <h1 align="center">Hi 👋, I'm Lumi Novry Mekel</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
+<h3 align="center">Software Project Delivery - Software Consultant</h3>
 <br>
 <!-- MY README SVG -->
 <p align="center">
